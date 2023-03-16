@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ./src/config/server.js",
+    "start": "node ./src/config/server",
     "dev": "nodemon ./src/config/server.js"
   },
   "keywords": [],
